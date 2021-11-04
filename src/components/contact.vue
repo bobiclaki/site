@@ -19,7 +19,7 @@
                 </div>
                 <div class="info">
                     <div class="images">
-                        <img :src="me().data.images.big" alt="ImageBig">
+                        <div :style="{ 'background-image': `url('${me().data.images.big}')` }"></div>
                         <i v-if="me().data.images.icon" :class="me().data.images.icon"></i>
                     </div>
                     <div class="text">
@@ -149,11 +149,12 @@ export default {
                     height: 48px;
                     position: relative;
 
-                    img:nth-child(1) {
+                    div:nth-child(1) {
                         width: 48px;
                         height: 48px;
                         border-radius: 7px;
                         background-size: cover;
+                        background-position: center;
                     }
 
                     img:nth-child(2) {
@@ -202,7 +203,7 @@ export default {
                 .images {
                     height: 24px;
 
-                    img:nth-child(1) {
+                    div:nth-child(1) {
                         width: 24px;
                         height: 24px;
                         border-radius: 5px;

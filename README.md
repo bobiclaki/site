@@ -1,17 +1,11 @@
-# Yet?
+# Web branch
 
-```javascript
-if (username !== `Heito`) return console.log(`User is not found!`)
+# heito.xyz - OpenSource Web Application
+
+## Installation
+```bash
+git clone -b web https://github.com/bobiclaki/bobiclaki/
+cd bobiclaki
+npm i -tls
+npm run serve
 ```
-
-## Question
-` Does it hurt you? ` / ` Больно ли вам? `
-
-## Socials
-* Discord: [Open](https://discordapp.com/users/858612408818073620)
-* VK: [Open](https://vk.com/bobiclaki)
-* Steam
-  * Main: [Open](https://steamcommunity.com/id/bobiclaki)
-  * Secondary: [Open](https://steamcommunity.com/id/aisuru_heito/)
-
-###### Bye Bye
