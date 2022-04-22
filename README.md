@@ -65,4 +65,6 @@ while(n !== 1) {
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true) -->
 
-###### :D
+<div align="center">
+    <h6>:D</h6>
+</div>
