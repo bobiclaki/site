@@ -48,11 +48,22 @@ while(n !== 1) {
 
 ## Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=dark)](/)
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=nord"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki)
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=onedark&show_icons=true)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki&theme=nord&show_icons=true&layout=compact"/>
+</div>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=nord)](/) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki&theme=nord&show_icons=true&layout=compact) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true) -->
 
 ## Codewars
 
