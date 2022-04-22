@@ -50,13 +50,10 @@ while(n !== 1) {
 
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=nord"/>
+    <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki&theme=nord&show_icons=true&layout=compact"/>
+    <br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki&theme=nord&show_icons=true&layout=compact"/>
 </div>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=nord)](/) -->
