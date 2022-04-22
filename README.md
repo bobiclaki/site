@@ -1,6 +1,6 @@
 # ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 ` ℍ𝕖𝕚𝕥𝕠 `
 
-[heito.xyz](https://heito.xyz)
+[Discover this](https://heito.xyz)
 
 ### A good example is ` 3x+1 `
 
