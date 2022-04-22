@@ -48,7 +48,7 @@ while(n !== 1) {
 
 ## Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=dark)](/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki)
 
