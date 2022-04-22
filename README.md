@@ -65,8 +65,4 @@ while(n !== 1) {
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true) -->
 
-## Codewars
-
-[![codewars](https://www.codewars.com/users/heito/badges/large)](https://www.codewars.com/users/heito)
-
 ###### :D
