@@ -50,18 +50,18 @@ while(n !== 1) {
 ## Streak stats
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=nord"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitoke&theme=nord"/>
     <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heitoke&theme=nord&show_icons=true"/>
     <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki&theme=nord&show_icons=true&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitoke&theme=nord&show_icons=true&layout=compact"/>
 </div>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobiclaki&theme=nord)](/) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heitoke&theme=nord)](/) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobiclaki&theme=nord&show_icons=true&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitoke&theme=nord&show_icons=true&layout=compact) -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobiclaki&theme=nord&show_icons=true) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitoke&theme=nord&show_icons=true) -->
 
 <div align="center">
     <h6>The End <br> :D</h6>
