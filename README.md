@@ -1,6 +1,6 @@
 # ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 ` ℍ𝕖𝕚𝕥𝕠 `
 
-[Discover this](https://heito.xyz) [Tasks](https://heitoke.notion.site/a9ebf8339c7c438181401167f1b294fa?v=257866bea02f4d39bb32fcb0d1461777)
+[Discover this](https://heito.xyz) | [Tasks](https://heitoke.notion.site/a9ebf8339c7c438181401167f1b294fa?v=257866bea02f4d39bb32fcb0d1461777)
 
 ### A good example is ` 3x+1 `
 
