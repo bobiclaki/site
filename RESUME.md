@@ -4,7 +4,7 @@
 
 A highly skilled and experienced **Full stack Web Developer** with expertise in MongoDB, Vue.js, TypeScript, Node.js, React, WebSockets, and REST API development. With a passion for creating innovative and efficient web applications, I have a proven track record of delivering high-quality projects and collaborating effectively with cross-functional teams.
 
-**Email:** [nikita134222@gmail.com](mailto:nikita134222@gmail.com), [me@heito.xyz](mailto:me@heito.xyz) <br>
+**Email:** [nikita134222@gmail.com](mailto:nikita134222@gmail.com) <br>
 **Website:** [heito.xyz](https://heito.xyz) <br>
 **Github:** [heitoke](https://github.com/heitoke) <br>
 **Telegram:** [heitoke](https://heitoke.t.me)
